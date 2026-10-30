@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shikhar Mishra
 
-🎓 2nd Year Engineering Student | 📊 Aspiring Data Analyst  
+🎓 4th Year Engineering Student | 📊 Aspiring Data Analyst  
 📍 Delhi, India
 
 ---
